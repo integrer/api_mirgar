@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<extension version="3.0.0" type="plugin" group="api" method="upgrade">
+	<name>API - MIRGAR</name>
+	<version>0.1.0</version>
+	<creationDate>2019-04-10</creationDate>
+	<author>Nikita Bibik</author>
+	<authorEmail>osbib2@gmail.com</authorEmail>
+	<files>
+		<filename plugin="mirgar">mirgar.php</filename>
+		<folder>mirgar</folder>
+	</files>
+</extension>
